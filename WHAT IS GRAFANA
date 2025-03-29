@@ -1,0 +1,2 @@
+Grafana is a opensource platform for modifying visualizing and analysing metrics,logs and traces.
+it will integrate with various dadasource like a influxdb,elastic search, promothius.
