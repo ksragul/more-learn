@@ -1,0 +1,5 @@
+Observablity is the Ablity to understand the internal state of a system based on external output.
+1. Logs
+2. Matrics
+3. Traces
+it help dignous and troubleshoot issues in complex system espasely in distributed environment.
